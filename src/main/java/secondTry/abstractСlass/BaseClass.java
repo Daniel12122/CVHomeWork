@@ -1,11 +1,9 @@
 package secondTry.abstractСlass;
 
-public  class BaseClass {
+public abstract  class BaseClass {
      void backToMainMenu(){
-
      }
      void exit(){
           System.exit(0);
      }
-
 }

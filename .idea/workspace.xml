@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01988118-42d6-4441-b3e0-920083f872f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/PersonalAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/PersonalAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/Subscribe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/Subscribe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/abstractСlass/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/abstractСlass/BaseClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/films/AboutFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/films/AboutFilm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/films/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/films/Film.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/sesionsAndTickets/Sessions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/sessionsAndTickets/Sessions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/sesionsAndTickets/TicketTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/sessionsAndTickets/TicketTemplate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/sesionsAndTickets/Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/sessionsAndTickets/Tickets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/shop/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/shop/Products.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/shop/ShopProducts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/shop/ShopProducts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/user/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/user/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/user/UserFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/abstractСlass/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/abstractСlass/BaseClass.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
