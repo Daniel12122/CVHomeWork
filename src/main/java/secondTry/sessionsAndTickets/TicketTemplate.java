@@ -1,4 +1,4 @@
-package secindTry.sesionsAndTickets;
+package secondTry.sessionsAndTickets;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

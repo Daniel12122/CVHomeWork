@@ -1,4 +1,4 @@
-package secindTry.films;
+package secondTry.films;
 
 import lombok.*;
 

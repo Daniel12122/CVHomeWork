@@ -1,6 +1,6 @@
-package secindTry;
+package secondTry;
 
-import secindTry.sesionsAndTickets.Sessions;
+import secondTry.sessionsAndTickets.Sessions;
 
 import java.util.Scanner;
 

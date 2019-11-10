@@ -1,6 +1,6 @@
-package secindTry.user;
+package secondTry.user;
 
-import secindTry.abstractСlass.BaseClass;
+import secondTry.abstractСlass.BaseClass;
 
 import java.util.Date;
 

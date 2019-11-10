@@ -1,4 +1,4 @@
-package secindTry.abstractСlass;
+package secondTry.abstractСlass;
 
 public  class BaseClass {
      void backToMainMenu(){

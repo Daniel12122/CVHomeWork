@@ -1,4 +1,4 @@
-package secindTry.shop;
+package secondTry.shop;
 
 public enum Products {
     POPCORNWITHCHEESE,

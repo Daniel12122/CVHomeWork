@@ -1,6 +1,6 @@
-package secindTry.sesionsAndTickets;
+package secondTry.sessionsAndTickets;
 
-import secindTry.abstractСlass.BaseClass;
+import secondTry.abstractСlass.BaseClass;
 
 public class Tickets extends BaseClass {
 

@@ -1,6 +1,6 @@
-package secindTry.shop;
+package secondTry.shop;
 
-import secindTry.abstractСlass.BaseClass;
+import secondTry.abstractСlass.BaseClass;
 
 public class ShopProducts extends BaseClass {
 

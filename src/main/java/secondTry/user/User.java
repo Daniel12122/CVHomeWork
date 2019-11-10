@@ -1,4 +1,4 @@
-package secindTry.user;
+package secondTry.user;
 
 import lombok.*;
 

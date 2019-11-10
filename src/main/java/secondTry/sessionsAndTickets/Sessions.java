@@ -1,7 +1,7 @@
-package secindTry.sesionsAndTickets;
+package secondTry.sessionsAndTickets;
 
-import secindTry.abstractСlass.BaseClass;
-import secindTry.films.Film;
+import secondTry.abstractСlass.BaseClass;
+import secondTry.films.Film;
 
 import java.util.Arrays;
 
