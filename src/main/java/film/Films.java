@@ -14,4 +14,19 @@ public abstract class Films {
          }
          return null;
      }
+     void concludingAnswer(String film, String nameFilm, String date, String name, String time){
+         StringBuilder s = new StringBuilder();
+         s.append("Thanks for purchasing ");
+         s.append(name);
+         s.append(". You have chosen a movie ");
+         s.append(nameFilm);
+         s.append(" ( ");
+         s.append(film );
+         s.append(" ). ");
+         s.append(date);
+         s.append(" at " );
+         s.append(time);
+         System.out.println(s.toString());
+
+     }
 }

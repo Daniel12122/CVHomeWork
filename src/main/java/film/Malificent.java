@@ -13,8 +13,7 @@ public class Malificent extends Films {
             System.out.println(a+"."+arr[i]);
         }
         int time = in.nextInt();
-        System.out.println("Thanks for purchasing " + name + ". You have chosen a movie "
-                + nameFilm +" ( " + film + " ). " + date + " at " + arr[time-1]);
+        concludingAnswer(film,nameFilm,date,name,arr[time-1]);
     }
 
     @Override
