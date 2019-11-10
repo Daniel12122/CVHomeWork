@@ -2,46 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01988118-42d6-4441-b3e0-920083f872f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Daniel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/PersonalAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/Subscribe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/abstractСlass/BaseClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/films/AboutFilm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/films/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/sesionsAndTickets/Sessions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/sesionsAndTickets/Tickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/shop/Products.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/shop/ShopProducts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/shop/ShopTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/shop/TicketTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/user/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/secindTry/user/UserFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cinema/FiveD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/cinema/FiveD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cinema/ICinema.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/cinema/ICinema.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cinema/ThreeD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/cinema/ThreeD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cinema/TwoD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/cinema/TwoD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/film/Films.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/film/Films.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/film/Malificent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/film/Malificent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/film/Prometheus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/film/Prometheus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/film/Terminator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/film/Terminator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/people/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/people/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/people/Seller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/firstTry/people/Seller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cinema/FiveD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cinema/ICinema.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cinema/ThreeD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/cinema/TwoD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/film/Films.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/film/Malificent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/film/Prometheus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/film/Terminator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/people/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/people/Seller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/shop/ShopTickets.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secindTry/shop/TicketTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secindTry/sesionsAndTickets/TicketTemplate.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -135,7 +97,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

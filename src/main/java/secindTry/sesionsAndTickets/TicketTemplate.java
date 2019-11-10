@@ -1,4 +1,4 @@
-package secindTry.shop;
+package secindTry.sesionsAndTickets;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
