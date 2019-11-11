@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01988118-42d6-4441-b3e0-920083f872f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/secondTry/factory/FilmFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/abstractСlass/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/abstractСlass/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/PersonalAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/account/PersonalAccount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/Subscribe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/subscribe/Subscribe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/films/AboutFilm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/entity/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/films/Film.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/films/Film.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/sessionsAndTickets/Sessions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/sessions/tickets/Sessions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/sessionsAndTickets/TicketTemplate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/entity/TicketTemplate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/sessionsAndTickets/Tickets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/sessions/tickets/Tickets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/user/UserFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/secondTry/factory/UserFactory.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +73,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="secondTry.Application" />
+      <module name="HomeWork2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="secondTry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -97,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Application" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
