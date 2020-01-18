@@ -3,34 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="01988118-42d6-4441-b3e0-920083f872f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/cinema/FiveD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/cinema/ICinema.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/cinema/ThreeD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/cinema/TwoD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/film/Films.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/film/Malificent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/film/Prometheus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/film/Terminator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/people/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/firstTry/people/Seller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/abstractСlass/BaseClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/account/PersonalAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/entity/Film.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/entity/TicketTemplate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/entity/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/factory/FilmFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/factory/UserFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/films/Film.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/sessions/tickets/Sessions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/sessions/tickets/Tickets.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/shop/Products.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/shop/ShopProducts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/secondTry/subscribe/Subscribe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/secondTry/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/secondTry/Application.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/secondTry/factory/FilmFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/secondTry/factory/FilmFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/secondTry/shop/ShopProducts.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/secondTry/shop/ShopProducts.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,11 +44,17 @@
     <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
     <property name="LombokPluginIS_VAL_Enabled" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,6 +150,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573318495915</updated>
     </task>
+    <task id="LOCAL-00001" summary="New Fix">
+      <created>1579361308864</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579361308864</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -186,5 +172,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Fix" />
   </component>
 </project>
